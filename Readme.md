@@ -39,16 +39,14 @@ _Luego de instaladas las dependencias que en este caso seria http-server, se cor
 npm start
 ```
 
-_El proyecto debe correr en el navegador o debe abrir el navegador. _
+_El proyecto debe abrir y correr en el navegador._
 
-## Autores ✒️
+## Autor ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Adrian Villa** - [villanuevand](https://github.com/AdrianVilla1504)
+* **Adrian Villa** - [AdrianVilla1504](https://github.com/AdrianVilla1504)
 * *Correo* - [adriancvilla@gmail.com](mailto:@adriancvilla@gmail.com) 
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia ISC- mira el archivo package.json para detalles
 
