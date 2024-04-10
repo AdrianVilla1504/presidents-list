@@ -16,14 +16,45 @@ _Lo inicial es clonar el proyecto en local, para poder correrlo_
 
 ### Pre-requisitos 📋
 
-_Para correrlo debes tener instalado. _
+_Para correrlo debes tener instalado en tu local._
 
 ```
 Node.js
 Npm 
 ```
-
-### Instalación 🔧
+_Un vistazo al package json._
+```
+{
+  "name": "president-list",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "An app in jquery to fetch presidents data from colombia api",
+  "main": "app/index.html",
+  "scripts": {
+    "start": "http-server ./app -a localhost -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianVilla1504/presidents-list.git"
+  },
+  "keywords": [
+    "Jquery",
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "AdrianVilla1504",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianVilla1504/presidents-list/issues"
+  },
+  "homepage": "https://github.com/AdrianVilla1504/presidents-list#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
+```
+### Instalación y ejecución🔧
 
 _Luego de clonado el proyecto en tu local, se siguen los siguientes pasos_
 
@@ -40,6 +71,12 @@ npm start
 ```
 
 _El proyecto debe abrir y correr en el navegador._
+
+![Screenshot_2024-04-09-23-44-43_3840x1080](https://github.com/AdrianVilla1504/presidents-list/assets/105081872/165f77a3-cb90-4dda-be36-c5e288780e6a)
+
+![Screenshot_2024-04-09-23-46-59_3840x1080](https://github.com/AdrianVilla1504/presidents-list/assets/105081872/84531822-5da7-42b8-a43b-f8da002b507a)
+
+
 
 ## Autor ✒️
 
