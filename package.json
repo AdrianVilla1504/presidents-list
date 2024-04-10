@@ -5,7 +5,7 @@
   "description": "An app in jquery to fetch presidents data from colombia api",
   "main": "app/index.html",
   "scripts": {
-    "start": "http-server ./app -o"
+    "start": "http-server ./app -a localhost -o"
   },
   "repository": {
     "type": "git",
