@@ -1,6 +1,13 @@
-# presidents-api
+# presidents-list
 
 _App desarrollada en Jquery, Javascript, Html, Css, para mostrar presidentes de Colombia a partir de colombia api_
+
+<p align="center">
+  <img src="https://github.com/AdrianVilla1504/presidents-list/assets/105081872/b1a41fb1-84e2-4372-8abe-831a9db9cf11" alt="Descripción de la imagen" width="500" style="display: block; margin: 0 auto;">
+</p>
+
+
+
 
 ## Comenzando 🚀
 
