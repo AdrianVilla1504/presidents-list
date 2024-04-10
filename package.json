@@ -1,0 +1,29 @@
+{
+  "name": "president-list",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "An app in jquery to fetch presidents data from colombia api",
+  "main": "app/index.html",
+  "scripts": {
+    "start": "http-server ./app -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianVilla1504/presidents-list.git"
+  },
+  "keywords": [
+    "Jquery",
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "AdrianVilla1504",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianVilla1504/presidents-list/issues"
+  },
+  "homepage": "https://github.com/AdrianVilla1504/presidents-list#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}

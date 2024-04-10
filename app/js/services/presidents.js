@@ -1,6 +1,7 @@
+
 export async function getPresidents() {
     try {
-        const response = await fetch("");
+        const response = await fetch(`https://api-colombia.com/api/v1/President/`);
         if (!response.ok) {
             throw new Error(`Error al obtener la lista de presidentes: ${response.status}`);
         }
@@ -13,7 +14,7 @@ export async function getPresidents() {
 }
 export async function getCityById(id) {
     try {
-        const response = await fetch(``);
+        const response = await fetch(`https://api-colombia.com/api/v1/City/${id}`);
         if (!response.ok) {
             throw new Error(`Error al obtener la ciudad por id: ${response.status}`);
         }
